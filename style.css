@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+* {
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+/*test REDLINE*/
+.rl {
+    border: 1px solid red;
+
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+/*BACKGROUND IMAGE WATER*/
+.bg_water_fon {
+    /*background-repeat: repeat-x;*/
+    background-image: url("./image/water2.png");
+}
+
+.txt_introS {
+    text-shadow: 2px 3px #1890ee;
+    color: #12f2c5;
+    font-family: Georgia, sans-serif;
+    text-align: center;
+}
+
+.txt_intro {
+    color: #12f2c5;
+    font-family: Georgia, sans-serif;
+    text-align: center;
+
+}
+
+/*OTSTUPN FOR ALL ABZAC */
+p {
+    text-indent: 30px;
+}
+
+/*LINE OF NAME SITE/ BACKGROUND COLOR*/
+.hederLine {
+    background-color: #192B73;
+    border-bottom: groove #f90fac;
+
+}
+
+.ariel > blockquote {
+    padding: 15px;
+    font-size: 12px;
+    text-align: left;
+    color: #e8f2e4;
+}
+
+cite {
+    color: yellow;
+}
+
+/*THIS IS MY GALLERY*/
+.galeryS {
+    color: #12f2c5;
+    background-image: url("./image/sand.jpg");
+
+}
+
+.galeryCols {
+    /*horiz-align: center;*/
+    /*padding: 2px 0px  2px 50px;*/
+    display: block;
+    background-color: #5489A0;
+    border-radius: 0em 2em 0em 2em;
+    margin: auto;
+    padding: 0.2em;
+
+    }
+
+/*THE NAME OF OWNER SITE...VLADA*/
+.n {
+    position: relative;
+
+    padding-top: 10px;
+
+    color: yellow;
+    text-shadow: 2px 5px #5e6057;
+    text-align: center;
+    font-size: 30pt;
+    font-family: Gabriola, sans-serif;
+    font-style: italic;
+}
+
+/*LOGO OF MERMAID*/
+.lo img, .mb-0 {
+    position: relative;
+    padding: 10px;
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+.footer {
+    background-color: #192B73;
+    color: #ffffff;
+    text-align: center;
+    display: inline-block;
+    font-size: 12px;
+}
+
+i .fa {
+    font-size: 40px;
+    color: #e9efe9;
+
+}
+
+/*.dotLine {*/
+/*border-left: 1px solid white;*/
+/*}*/
+
+.imployee {
+
+    font-family: Arial;
+    text-transform: uppercase;
+    font-size: x-small;
+    color: #ffdf08;
+}
+
+.fs {
+
+    font-size: smaller;
+    text-align: center;
+    color: #ffffff;
+    background-color: #636c72;
+    display: block;
+    align-content: center;
+    padding: 8px;
+}
